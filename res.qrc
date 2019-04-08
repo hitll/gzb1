@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>images/help.png</file>
+        <file>images/recording.ico</file>
+        <file>images/search.png</file>
+        <file>images/setting.png</file>
+        <file>images/test.ico</file>
+        <file>images/machine2.png</file>
+    </qresource>
+</RCC>
